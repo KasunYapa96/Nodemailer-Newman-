@@ -1,0 +1,16 @@
+{
+  "name": "nodemailerapp",
+  "version": "1.0.0",
+  "description": "Email app nodemailer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasun Yapa",
+  "license": "ISC",
+  "dependencies": {
+    "newman": "^5.2.4",
+    "newman-reporter-html": "^1.0.5",
+    "nodemailer": "^6.6.3"
+  }
+}
